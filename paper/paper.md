@@ -103,10 +103,19 @@ In this study, we propose **Semantics-Adaptive Dynamic Intervention (SADI)**, a 
 <h2 align=center>Bibtex</h2>
 
 ```
-@article{wang2024semantics,
-  title={Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors},
-  author={Wang, Weixuan and Yang, Jingyuan and Peng, Wei},
-  journal={arXiv preprint arXiv:2410.12299},
-  year={2024}
+@inproceedings{DBLP:conf/iclr/Wang0025,
+  author       = {Weixuan Wang and
+                  Jingyuan Yang and
+                  Wei Peng},
+  title        = {Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering
+                  Vectors},
+  booktitle    = {The Thirteenth International Conference on Learning Representations,
+                  {ICLR} 2025, Singapore, April 24-28, 2025},
+  publisher    = {OpenReview.net},
+  year         = {2025},
+  url          = {https://openreview.net/forum?id=8WQ7VTfPTl},
+  timestamp    = {Thu, 15 May 2025 17:19:05 +0200},
+  biburl       = {https://dblp.org/rec/conf/iclr/Wang0025.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
